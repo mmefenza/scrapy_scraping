@@ -1,0 +1,2 @@
+# scrapy_scraping
+Scrap data from dynamic websites and output a JSON file using scrapy and selenium. Functionalities like scrolling, clicking, navigating between dynamic pages are used. In this folder, one can find the scrapy spider used. Spiders are classes which define how a certain site (or a group of sites) will be scraped, including how to perform the crawl (i.e. follow links) and how to extract structured data from their pages (i.e. scraping items).
